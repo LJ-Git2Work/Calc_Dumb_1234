@@ -1,0 +1,14 @@
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\bin\Debug\net9.0\firstprogram.exe
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\bin\Debug\net9.0\firstprogram.deps.json
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\bin\Debug\net9.0\firstprogram.runtimeconfig.json
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\bin\Debug\net9.0\firstprogram.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\bin\Debug\net9.0\firstprogram.pdb
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.AssemblyInfoInputs.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.AssemblyInfo.cs
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.csproj.CoreCompileInputs.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\refint\firstprogram.dll
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.pdb
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\firstprogram.genruntimeconfig.cache
+D:\TAFE\2025_S2\C# Two_ICTPRG443 - ICTICT430 - ICTICT523\Introduction\firstprogram\obj\Debug\net9.0\ref\firstprogram.dll
