@@ -1,1 +1,1 @@
-# SMTAFE_2025_S2
+# DUmb calculator
